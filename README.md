@@ -30,7 +30,7 @@ Clonezilla performing a sector-by-sector copy of the system drive to the new SSD
 
 ### **4. Successful Clone Completion**
 Confirmation that the imaging and disk replication process completed without errors.
-![Clone Complete](images/Clonezilla4.JPG)
+![Clone Complete](images/Clonezilla4.jpg)
 
 ### **5. Post-Clone System Verification**
 Validating local users, security policies, and system settings after migrating to the new SSD.
