@@ -22,7 +22,7 @@ Booting into Clonezilla to begin the disk-to-disk cloning process.
 
 ### **2. Selecting Source and Target Drives**
 Choosing the correct system drive (source) and SSD upgrade drive (target) prior to cloning.
-![Drive Selection](images/Clonezilla7.jpg)
+![Drive Selection](images/Clonezilla7.JPG)
 
 ### **3. Cloning Process in Progress**
 Clonezilla performing a sector-by-sector copy of the system drive to the new SSD.
