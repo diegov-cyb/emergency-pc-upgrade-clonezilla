@@ -48,9 +48,9 @@ Validating local users, security policies, and system settings after migrating t
     - SSD installation
     - Internal cleaning for airflow optimization
 - **Security & Reliability**
-- Data integrity validation
-- System hardening
-- Reducing failure points for emergency-service systems
+    - Data integrity validation
+    - System hardening
+    - Reducing failure points for emergency-service systems
 
 ## **Purpose**
 The goal of this project was to increase system dependability and performance in a critical environment where uptime is essential. By migrating to an SSD, expanding storage capacity, enabling secure remote access, and improving system thermals, the workstation now performs faster, runs cooler, and is better suited for demanding emergency service operations.
